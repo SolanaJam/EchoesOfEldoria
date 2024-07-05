@@ -1,6 +1,4 @@
-Certainly! Here's a basic `README.md` template for your project:
 
-```markdown
 # Echoes of Eldoria
 
 Echoes of Eldoria is a game developed for the Solana Speedrun GameJam.
@@ -82,6 +80,4 @@ Contributions to Echoes of Eldoria are welcome! Here's how you can contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Adjust the `<repository-url>` placeholder with your actual repository URL. This template provides a structured overview of your project, its features, installation instructions, API endpoints, and how to contribute.
